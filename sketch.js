@@ -142,14 +142,14 @@ function draw() {
     text("14. liver-disease-symptoms.com/alcoholic-liver-disease/", 1, 220);
 
     text("Content:", 1, 300);
-    text("7. https://www.cdc.gov/heartdisease/facts.htm", 1, 320);
-    text("8. https://betobaccofree.hhs.gov/health-effects/smoking-health/", 1, 340);
-    text("9. www.asthma.partners.org/NewFiles/BoFAChapter30.html", 1, 360);
-    text("10. www.theunion.org/news-centre/news/new-study-shows-smoking-tobacco-doubles-risk-of-recurrent-tuberculosis", 1, 380);
-    text("11. www.medicalnewstoday.com/articles/8856.php", 1, 400);
-    text("12. http://familydoctor.org/condition/pneumonia/", 1, 420);
-    text("13. http://www.sciencedaily.com/releases/2016/01/160107104811.htm", 1, 440);
-    text("15. loveyourliver.com.au/alcohol", 1, 460);
+    text("7. Center for Disease Control and Prevention. May 23, 2017. Available from: https://www.cdc.gov/heartdisease/facts.htm", 1, 320);
+    text("8. US Department of Health and Human Services. May 29, 2017. Available from: https://betobaccofree.hhs.gov/health-effects/smoking-health/", 1, 340);
+    text("9. Asthma Partners. May 25, 2017. Available from: www.asthma.partners.org/NewFiles/BoFAChapter30.html", 1, 360);
+    text("10. International Union Against Tuberculosis and Lung Cancer. May 26, 2017. Available from: www.theunion.org/news-centre/news/new-study-shows-smoking-tobacco-doubles-risk-of-recurrent-tuberculosis", 1, 380);
+    text("11. James McIntosh. May 28, 2017. Available from: www.medicalnewstoday.com/articles/8856.php", 1, 400);
+    text("12. Family Doctor. May 27, 2017. Available from: http://familydoctor.org/condition/pneumonia/", 1, 420);
+    text("13. American Friends of Tel Aviv University. May 21, 2017. Available from: http://www.sciencedaily.com/releases/2016/01/160107104811.htm", 1, 440);
+    text("15. Love Your Liver. May 22, 2017. Available from: loveyourliver.com.au/alcohol", 1, 460);
 
 
   }
